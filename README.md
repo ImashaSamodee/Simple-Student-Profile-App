@@ -1,4 +1,4 @@
-# Student Profile App - Flutter Practical Lab Sheet 3
+# Student Profile App - Flutter Practical
 
 A Flutter application developed as part of **Practical Lab Sheet 3**, demonstrating core concepts of Flutter development including **Stateless Widgets**, **Stateful Widgets**, **Local Asset Images**, and **External Packages (`intl`)**.
 
@@ -103,9 +103,6 @@ flutter doctor
    ```
 
 ---
-
-## 📝 Lab Submission Questions
-All answers for **Section 7: Questions to Submit** of Practical Lab Sheet 3 are documented in [LAB_SHEET_3_ANSWERS.md](./LAB_SHEET_3_ANSWERS.md).
 
 ---
 
